@@ -1,0 +1,7 @@
+Q:Toyota Corolla
+Ans:-
+	https://github.com/CM-007/DS_ASS/blob/26f7ae52a840991838684f156f02755d2c54d7b5/Ass05_Toyota_Corolla(MLL).ipynb
+
+Q:50_Startups
+Ans:-
+	https://github.com/CM-007/DS_ASS/blob/393871049d589c002c76f50f2929e40dfc2f9fa1/Ass05_Startups(MLL).ipynb
